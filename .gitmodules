@@ -1,0 +1,12 @@
+[submodule "assimp"]
+	path = assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "sdl"]
+	path = sdl
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "gegl"]
+	path = gegl
+	url = https://github.com/dormon/geGL.git
+[submodule "glm"]
+	path = glm
+	url = https://github.com/g-truc/glm.git
